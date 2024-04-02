@@ -1,0 +1,32 @@
+[33mcommit 8e731acfbe8220fa270379f34a58a165c4ea2961[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Xin <xinchents@gmail.com>
+Date:   Tue Apr 2 17:28:30 2024 -0400
+
+    adding works from media-queries
+
+[33mcommit e05d33ce938075b105e31b86b7a1728f83c9a28c[m
+Merge: 07e26fa a86adef
+Author: Hou Chia <kchia87@gmail.com>
+Date:   Wed May 5 16:50:11 2021 -0400
+
+    Merge pull request #1 from Thinkful-Ed/tfeng-540
+    
+    create deeper-with-flexbox folder
+
+[33mcommit a86adefad5b0c2f8dbdd6e98f3a5d2f53ece59b6[m
+Author: kchia <kchia87@gmail.com>
+Date:   Wed May 5 16:49:33 2021 -0400
+
+    create deeper-with-flexbox folder
+
+[33mcommit 07e26fa3487560ccce782c1c7bc1e12b538f59d3[m
+Author: kchia <kchia87@gmail.com>
+Date:   Tue Mar 16 16:06:51 2021 -1000
+
+    style: format HTML files
+
+[33mcommit 93cda22d60ab61d013c0665be98f8dfad98ed18f[m
+Author: kchia <kchia87@gmail.com>
+Date:   Tue Mar 16 15:54:05 2021 -1000
+
+    initial commit
